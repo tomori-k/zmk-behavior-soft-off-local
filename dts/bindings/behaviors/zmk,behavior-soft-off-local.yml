@@ -1,0 +1,7 @@
+description: Soft-off behavior that turns off one side of a split keyboard
+
+compatible: "zmk,behavior-soft-off-local"
+
+include: zero_param.yaml
+
+properties: {}

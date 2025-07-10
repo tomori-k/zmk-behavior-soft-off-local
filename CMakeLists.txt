@@ -1,0 +1,2 @@
+target_sources_ifdef(CONFIG_ZMK_BEHAVIOR_SOFT_OFF_LOCAL app PRIVATE src/behaviors/behavior_soft_off_local.c)
+zephyr_include_directories(include)
